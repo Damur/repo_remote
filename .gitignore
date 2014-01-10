@@ -1,2 +1,6 @@
 # ignore *.md files
 *.md
+
+# ignore tmp files
+main.c~
+.gitignore~
